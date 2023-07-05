@@ -1,3 +1,5 @@
 # Logos_Lab_Self-learning
-Logos Lab self-learning code
-Go to the corresponding branch to see the code.
+Logos Lab self-learning code <br/>
+Go to the corresponding branch to see the code. <br/>
+
+HackMD link: https://hackmd.io/o_1X6BF7SImr7dEfdJWMYg
