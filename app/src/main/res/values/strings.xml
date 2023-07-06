@@ -1,7 +1,22 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="test1">Test1</string>
-    <string name="test2">Test2</string>
-    <string name="test3">Test3</string>
-    <string name="test4">Test4</string>
+    <string name="textView1">Who are you?</string>
+    <string name="textView2">How to be an Asian?</string>
+    <string name="button1">This is a button.</string>
+    <string name="EDIT_HINT">Enter your name.</string>
+    <string name="checkbox1">Not Asian</string>
+    <string name="checkbox2">Asian</string>
+    <string name="radio1">B in blood test</string>
+    <string name="radio2">A in blood test</string>
+    <string name="radio3">A+ in blood test</string>
+    <string name="toggleOn">FAILURE</string>
+    <string name="toggleOff">OFF</string>
+
+    <string-array name="Asian">
+        <item>Select your problem.</item>
+        <item>How to become mature?</item>
+        <item>How to become successful?</item>
+        <item>How to go to school?</item>
+        <item>How to manage failures?</item>
+    </string-array>
 </resources>
