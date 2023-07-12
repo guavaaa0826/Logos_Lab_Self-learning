@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chap6</string>
+
+    <string-array name="difficulty">
+        <item>Easy</item>
+        <item>Asian</item>
+        <item>Chinese</item>
+        <item>Emotional Damage</item>
+    </string-array>
+</resources>
