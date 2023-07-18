@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chap7ViewBindingExample</string>
+    <string name="textView">This is a textView.</string>
+    <string name="button">This is a button.</string>
+</resources>
