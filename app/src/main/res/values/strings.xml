@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chap11MathGame</string>
+    <string name="foo">FOO</string>
+
+    <string name="add">Addition</string>
+    <string name="sub">Subtraction</string>
+    <string name="mul">Multiplication</string>
+
+    <string name="score">Score: 0</string>
+    <string name="life">Life: 3</string>
+    <string name="time">Time: 10</string>
+    <string name="hint">Answer = </string>
+    <string name="submit">SUBMIT</string>
+    <string name="next">NEXT</string>
+
+    <string name="retry">RETRY</string>
+    <string name="select">SELECT MODE</string>
+    <string name="exit">EXIT</string>
+</resources>
