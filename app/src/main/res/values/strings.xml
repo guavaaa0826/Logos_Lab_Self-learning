@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chap14LayoutsExample</string>
+
+    <string name="test1">TEST1</string>
+    <string name="test2">TEST2</string>
+    <string name="test3">TEST3</string>
+    <string name="test4">TEST4</string>
+</resources>
