@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chap15Example</string>
+
+    <string name="textView">Who are you?</string>
+    <string name="button1">This is a button.</string>
+    <string name="hint">Enter your name.</string>
+    <string name="checkbox1">Not Asian</string>
+    <string name="checkbox2">Asian</string>
+    <string name="radio1">B in blood test</string>
+    <string name="radio2">A in blood test</string>
+    <string name="radio3">A+ in blood test</string>
+    <string name="toggleOn">FAILURE</string>
+    <string name="toggleOff">OFF</string>
+
+    <string-array name="asian">
+        <item>What\'s your problem?</item>
+        <item>How to become mature?</item>
+        <item>How to become successful?</item>
+        <item>How to go to school?</item>
+        <item>How to manage failures?</item>
+    </string-array>
+</resources>
