@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chap17LifecycleServiceExample</string>
+
+    <string name="textView">0</string>
+    <string name="plus">+1</string>
+    <string name="minus">-1</string>
+    <string name="send">SEND</string>
+    <string name="send_frag">SEND - FRAG</string>
+    <string name="back">Go Back</string>
+
+    <string name="classic">Start classic service</string>
+    <string name="job_intent">Start job intent service</string>
+    <string name="stop">Stop service</string>
+</resources>
