@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">κεφάλαιο 9</string>
+    <string name="textView">Γειά σου Κόσμε!</string>
+    <string name="toast">Αυτό είναι ένα μήνυμα πρόποσης.</string>
+    <string name="button">Εμφάνιση μηνύματος τοστ</string>
+</resources>
