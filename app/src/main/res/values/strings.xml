@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chap19Example</string>
+
+    <string name="textView">Hello World!</string>
+    <string name="toast">This is a toast message.</string>
+    <string name="button">Show toast message</string>
+</resources>
